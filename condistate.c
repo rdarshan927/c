@@ -15,9 +15,9 @@ int main(){
     scanf("%d", &x);
 
     if (x<70){
-    printf("Order Confirmed\n Thank YOU\n");}
+    printf("Order Confirmed\nThank YOU\n");}
         else {
-        printf("Order Limit reached\n Thank YOU\n");}
+        printf("Order Limit reached\nThank YOU\n");}
 
     return 0;
 }
