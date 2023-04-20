@@ -10,7 +10,6 @@ int main()
     avg=total/5;
     printf("\nTotal of the entered marks is %d", total);
     printf("\nAverage of the entered marks is %f", avg);
-    if
 
     return 0;
 }
